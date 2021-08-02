@@ -1,4 +1,4 @@
-# Covid tracker app
+# Covid Tracker App
 
 This is a Covid-19 tracker app made with React JS, Material UI and Axios.  
 
