@@ -3,7 +3,7 @@ import styles from './Card.module.css';
 import cx from 'classnames';
 import { Card, CardContent, Typography, Grid } from '@material-ui/core';
 
-const Card = ({  }) => {
+const Card = () => {
     return (
         <div className={styles.component}>
             <Grid item component={Card} xs={12} md={3} className={cx(styles.card, styles.infected)}>
